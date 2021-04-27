@@ -2,7 +2,7 @@
 description: Main Bridge (Guidance)
 ---
 
-# 主舰桥 \(引导\) 🇺🇳
+# Main Bridge \(Guidance\)🇺🇳
 
 
 

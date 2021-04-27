@@ -1,4 +1,8 @@
-# 指挥室 - 以太坊
+---
+description: Command Room - ETH
+---
+
+# Command Room - ETH
 
 {% page-ref page="./" %}
 
